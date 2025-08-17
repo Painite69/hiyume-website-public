@@ -8,7 +8,7 @@ Hi-Yume is a game studio created by 4 siblings, their main goal is to make games
 - **Frontend:** React, Next.js and TypeScript.
 - **Backend:** Node.js for the backend and Vercel for hosting and deployment.
 - **Styling:** Tailwind CSS for styling and custom CSS modules.
-- **Forms** Created a custom forms component that connects to Google forms.
+- **Forms:** Created a custom forms component that connects to Google forms.
 
 ## ✨ Features
 - A game studio website featuring my published game.
